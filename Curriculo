@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+<title> Currículo Giovanna </title>
+    </head>
+    
+    <body bgcolor="pink"> 
+        <div align="center"> <img src="https://i.pinimg.com/280x280_RS/07/af/c4/07afc4e6a7b59f940e8cd177f6a79558.jpg"> </div>
+            
+        <h1 align="center"> Giovanna Servidio Silva</h1>
+        <h2 align="center"> Rio de Janeiro, RJ </h2>
+        <h2 align="center"> 19 anos </h2>
+        <h3> Contato: </h3> 
+         Email: gservidio@gmail.com <br>
+         Telefone: (21) 9XXXX-XXXX
+        <h3> Objetivo: </h3>
+        Estágio como designer gráfico.
+        <hr>    
+        <h3> Formação Acadêmica: </h3> 
+        <ul>
+            <li>Universidade Veiga de Almeida (Cursando) </li>
+            <li> Instituto Nossa Senhora da Piedade </li>
+            <li>  Colégio Metropolitano </li>
+        
+        </ul> 
+        
+        <h3>  Idiomas </h3>
+        
+        <table border="1"> 
+        <tr> 
+            <td> Idiomas: </td>
+            <td> Nível</td>
+            </tr>
+            <td> Ingles </td>
+            <td> Avançado</td>
+            <tr>
+            <td> Espanhol</td>
+            <td> Básico </td> 
+        </tr>
+        </table>
+        
+        <h3> Caracteristicas: </h3>
+         <ul> 
+             <li> Facildade em lidar com público </li>
+             <li> Aberta a aprender coisas novas </li>
+             <li> Facilidade em trabalhar em equipe</li>
+        </ul>
+        
+        <h3> Interesses:</h3>     
+          <ul>
+            <li> Ilustração e Pintura digital</li>
+            <li> Desenho </li>
+            <li> Concept Art </li>  
+        </ul>
+        
+         
+       
+    
+         
+        
+         
+    </body>
+</html>
